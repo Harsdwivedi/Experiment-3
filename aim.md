@@ -1,0 +1,2 @@
+To study the strain aging behavior of mild steel (associated with the yield-point phenomena)
+using load-extension (and therefore stress-strain) curve obtained from tensile test.
